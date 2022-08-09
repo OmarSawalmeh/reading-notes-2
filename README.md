@@ -4,7 +4,7 @@
 
 ---
 # **Topics:** *REACT JS*
-# **Latest reading** : [Component Based UI](./Component-Based-UI.md)
+# **Latest reading** : [UseState Hook](./useStateHook.md)
 
 ---
 
@@ -15,5 +15,5 @@
 |Week1|Week2|Week3|Week4|Week5|Week6|Week7|
 |:-------------:|:---------|:-------------|----:|----:|----:|----:|
 |[Component Based UI](./Component-Based-UI.md)|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|
+|[UseState Hook](./useStateHook.md)|-|-|-|-|-|-|
+|🤝|-|-|-|-|-|-|

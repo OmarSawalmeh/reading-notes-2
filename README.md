@@ -4,7 +4,7 @@
 
 ---
 # **Topics:** *REACT JS*
-# **Latest reading** : [UseState Hook](./useStateHook.md)
+# **Latest reading** : [Component Lifecycle / useEffect Hook](./Component-Lifecycle.md)
 
 ---
 
@@ -14,6 +14,6 @@
 
 |Week1|Week2|Week3|Week4|Week5|Week6|Week7|
 |:-------------:|:---------|:-------------|----:|----:|----:|----:|
-|[Component Based UI](./Component-Based-UI.md)|-|-|-|-|-|-|
+|[Component Based UI](./Component-Based-UI.md)|[Component Lifecycle / useEffect Hook](./Component-Lifecycle.md)|-|-|-|-|-|
 |[UseState Hook](./useStateHook.md)|-|-|-|-|-|-|
 |🤝|-|-|-|-|-|-|

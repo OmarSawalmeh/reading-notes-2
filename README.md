@@ -4,7 +4,7 @@
 
 ---
 # **Topics:** *REACT JS*
-# **Latest reading** : [useReducer Hook](./useReducer.md)
+# **Latest reading** : [Hash Tables](./Hash-Tables.md)
 
 ---
 
@@ -16,4 +16,4 @@
 |:-------------:|:---------|:-------------|----:|----:|----:|----:|
 |[Component Based UI](./Component-Based-UI.md)|[Component Lifecycle / useEffect Hook](./Component-Lifecycle.md)|-|-|-|-|-|
 |[UseState Hook](./useStateHook.md)|[useReducer Hook](./useReducer.md)|-|-|-|-|-|
-|🤝|-|-|-|-|-|-|
+|🤝|[Hash Tables](./Hash-Tables.md)|-|-|-|-|-|

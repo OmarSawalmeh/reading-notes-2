@@ -4,7 +4,7 @@
 
 ---
 # **Topics:** *REACT JS*
-# **Latest reading** : [Context API](./Context-API.md)
+# **Latest reading** : [Context API - Behaviors](./Context-API-Behaviors.md)
 
 ---
 
@@ -15,5 +15,5 @@
 |Week1|Week2|Week3|Week4|Week5|Week6|Week7|
 |:-------------:|:---------|:-------------|----:|----:|----:|----:|
 |[Component Based UI](./Component-Based-UI.md)|[Component Lifecycle / useEffect Hook](./Component-Lifecycle.md)|[Context API](./Context-API.md)|-|-|-|-|
-|[UseState Hook](./useStateHook.md)|[useReducer Hook](./useReducer.md)|-|-|-|-|-|
-|🤝|[Hash Tables](./Hash-Tables.md)|-|-|-|-|-|
+|[UseState Hook](./useStateHook.md)|[useReducer Hook](./useReducer.md)|[Context API - Behaviors](./Context-API-Behaviors.md)|-|-|-|-|
+|🤝|[Hash Tables](./Hash-Tables.md)|🤝|-|-|-|-|

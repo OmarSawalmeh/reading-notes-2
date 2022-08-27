@@ -4,14 +4,12 @@
 
 ---
 # **Topics:** *REACT JS*
-<<<<<<< HEAD
 # **Latest reading** : 
-- (Read 33)   [Login and Auth](./Login-and-Auth.md)
- - (Read 34)   [API-Integration](./API-Integration.md)             
+          
 =======
-# **Latest reading** : [Context-API-Behaviors](./Context-API-Behaviors.md)
->>>>>>> origin
-
+# **Latest reading** : 
+ - (**Read 33**)   [Login and Auth](./Login-and-Auth.md)
+ - (**Read 34**)   [API-Integration](./API-Integration.md)   
 ---
 
 
